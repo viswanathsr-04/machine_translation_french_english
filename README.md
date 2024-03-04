@@ -20,3 +20,7 @@
 
    ```bash
    streamlit run machine_translation_french_english.py
+
+## Try the App Globally :
+
+[Click here to try the deployed Macine Translation App](https://machine-translation-french-to-english.streamlit.app/)
